@@ -1,0 +1,680 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"unq",
+				"unquoted_path"
+			],
+			[
+				"by_",
+				"by_urlID"
+			],
+			[
+				"clas",
+				"class	New Class"
+			],
+			[
+				"signup",
+				"signup-form"
+			],
+			[
+				"valid_",
+				"valid_email"
+			],
+			[
+				"True",
+				"True	keyword"
+			],
+			[
+				"have",
+				"have_error"
+			],
+			[
+				"make_",
+				"make_salt"
+			],
+			[
+				"Blog",
+				"BlogHandler"
+			],
+			[
+				"render",
+				"render_json"
+			],
+			[
+				"N",
+				"None	keyword"
+			],
+			[
+				"url",
+				"urllib2"
+			],
+			[
+				"Not",
+				"NotImplementedError	error"
+			],
+			[
+				"error_",
+				"error_username"
+			],
+			[
+				"class",
+				"classmethod	classmethod"
+			],
+			[
+				"make",
+				"make_pw_hash"
+			],
+			[
+				"username",
+				"username"
+			],
+			[
+				"None",
+				"None	keyword"
+			],
+			[
+				"visits",
+				"visits"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"html",
+				"html"
+			],
+			[
+				"jinj",
+				"jinja_env"
+			],
+			[
+				"templa",
+				"template"
+			],
+			[
+				"template",
+				"template_dir"
+			],
+			[
+				"esa",
+				"escape_html"
+			],
+			[
+				"rot",
+				"rotForm"
+			],
+			[
+				"R",
+				"RequestHandler"
+			],
+			[
+				"Thanks",
+				"ThanksHandler"
+			],
+			[
+				"esc",
+				"escape_html"
+			],
+			[
+				"es",
+				"escape_html"
+			],
+			[
+				"user",
+				"user_year"
+			],
+			[
+				"us",
+				"user_month"
+			],
+			[
+				"u",
+				"user_day"
+			],
+			[
+				"mak",
+				"make_pw_hash"
+			],
+			[
+				"vi",
+				"visits"
+			],
+			[
+				"cookie",
+				"cookie_val"
+			],
+			[
+				"cook",
+				"cookie_val"
+			],
+			[
+				"check",
+				"check_secure_val"
+			],
+			[
+				"Handler",
+				"Handler"
+			],
+			[
+				"auto",
+				"auto_now"
+			],
+			[
+				"po",
+				"post_id"
+			],
+			[
+				"aut",
+				"auto_now_add"
+			],
+			[
+				"in",
+				"indivPost"
+			],
+			[
+				"Post",
+				"PostDB"
+			],
+			[
+				"submit",
+				"submittedPosts"
+			],
+			[
+				"lin",
+				"link_id"
+			],
+			[
+				"link",
+				"link_index"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/kylepkacius/Dropbox/Programming/kacius-253-final/templates/edit.html",
+			"settings":
+			{
+				"buffer_size": 449,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/kylepkacius/Dropbox/Programming/kacius-253-final/templates/base.html",
+			"settings":
+			{
+				"buffer_size": 1985,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/kylepkacius/Dropbox/Programming/kacius-253-final/wiki.py",
+			"settings":
+			{
+				"buffer_size": 11345,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"command_palette":
+	{
+		"height": 367.0,
+		"selected_items":
+		[
+			[
+				"ssh",
+				"Set Syntax: HTML"
+			],
+			[
+				"ssht",
+				"Set Syntax: HTML"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"ssp",
+				"Set Syntax: Python"
+			],
+			[
+				"ssss",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"mar",
+				"Set Syntax: Markdown"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"file",
+				"FileDiffs: Menu"
+			],
+			[
+				"ww",
+				"Word Wrap: Toggle"
+			],
+			[
+				"sspy",
+				"Set Syntax: Python"
+			],
+			[
+				"ssj",
+				"Set Syntax: JSON"
+			],
+			[
+				"pakck",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 385.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/kylepkacius/Dropbox/Programming/kacius-253-final/templates/login-form.html",
+		"/Users/kylepkacius/Dropbox/Programming/kacius-253-final/templates/signup-form.html",
+		"/Users/kylepkacius/Dropbox/Programming/courseapp/Lesson 6 - Scaling",
+		"/Users/kylepkacius/Dropbox/Programming/kacius-253-final/static/main.css",
+		"/Users/kylepkacius/Dropbox/Programming/kacius-253-final/templates/base.html",
+		"/Users/kylepkacius/Dropbox/Programming/courseapp/Lesson 7 - Scaling Reddit",
+		"/Users/kylepkacius/Dropbox/Programming/courseapp/Lesson 5 - APIs",
+		"/Users/kylepkacius/Dropbox/Programming/courseapp/Lesson 4 - User Authentication and Access Control",
+		"/Users/kylepkacius/Dropbox/Programming/kacius-253-final/notes/#FINAL PROJECT#",
+		"/Users/kylepkacius/Dropbox/Programming/courseapp/static/main.css",
+		"/Users/kylepkacius/Dropbox/Programming/asciigeo/main.py",
+		"/Users/kylepkacius/Dropbox/Programming/asciigeo/templates/front.html",
+		"/Users/kylepkacius/Dropbox/Programming/kacius-253-final/templates/welcome.html",
+		"/Users/kylepkacius/Dropbox/Programming/kacius-253-final/templates/edit.html",
+		"/Users/kylepkacius/Dropbox/Programming/kacius-253-final/templates/view.html",
+		"/Users/kylepkacius/Dropbox/Programming/kacius-253-final/wiki.py",
+		"/Users/kylepkacius/Dropbox/Programming/courseapp/templates/signup-form.html",
+		"/Users/kylepkacius/Dropbox/Programming/courseapp/templates/front.html",
+		"/Users/kylepkacius/Dropbox/Programming/courseapp/templates/base.html",
+		"/Users/kylepkacius/Dropbox/Programming/courseapp/app.yaml",
+		"/Users/kylepkacius/Dropbox/Programming/courseapp/blog.py",
+		"/Users/kylepkacius/Dropbox/Programming/kacius-253-final/notes/#FINAL PROJECT#1",
+		"/Users/kylepkacius/Dropbox/Programming/courseapp/templates/login-form.html",
+		"/Users/kylepkacius/Dropbox/Programming/kacius-253-final/login-form.html",
+		"/Users/kylepkacius/Dropbox/Programming/kacius-253-final/app.yaml",
+		"/Users/kylepkacius/Dropbox/Programming/asciigeo/index.yaml",
+		"/Users/kylepkacius/Dropbox/Programming/courseapp/templates/permalink.html",
+		"/Users/kylepkacius/Desktop/test.py",
+		"/Users/kylepkacius/Dropbox/Programming/asciigeo/app.yaml",
+		"/Users/kylepkacius/Dropbox/Programming/courseapp/Lessons 1-3",
+		"/Users/kylepkacius/Dropbox/Programming/asciigeo/front.html",
+		"/Users/kylepkacius/Dropbox/Programming/courseapp/templates/welcome.html",
+		"/Users/kylepkacius/Downloads/hw4 2/templates/login-form.html",
+		"/Users/kylepkacius/Dropbox/Programming/courseapp/templates/newpost.html",
+		"/Users/kylepkacius/Downloads/hw4 2/blog.py",
+		"/Users/kylepkacius/Downloads/hw4/blog.py",
+		"/Users/kylepkacius/Downloads/hw3/blog.py",
+		"/Users/kylepkacius/Downloads/hw3/index.yaml",
+		"/Users/kylepkacius/Dropbox/Programming/courseapp/index.yaml",
+		"/Users/kylepkacius/Downloads/hw3/app.yaml",
+		"/test asdf ad asdf a",
+		"/Users/kylepkacius/Dropbox/Programming/blogapp/app.yaml",
+		"/Users/kylepkacius/Dropbox/Programming/udacitycourse/udacityapp/main.py",
+		"/Users/kylepkacius/Desktop/udacityapp/main.py",
+		"/Users/kylepkacius/Desktop/udacityapp/app.yaml",
+		"/Users/kylepkacius/Dropbox/Programming/udacitycourse/udacityapp/app.yaml",
+		"/Users/kylepkacius/Dropbox/Programming/udacitycourse/Unit3/app.yaml",
+		"/Users/kylepkacius/Desktop/unit3/app.yaml",
+		"/Users/kylepkacius/Desktop/map.js",
+		"/Users/kylepkacius/Desktop/main.html",
+		"/Users/kylepkacius/Dropbox/Programming/udacitycourse/Solutions/hw2/birthdayValidate.html",
+		"/Users/kylepkacius/Dropbox/Programming/udacitycourse/Solutions/hw2/templates/rot13-form.html",
+		"/Users/kylepkacius/Dropbox/Programming/udacitycourse/Solutions/hw2/blog.py",
+		"/Users/kylepkacius/Dropbox/Programming/udacitycourse/cs253_notes",
+		"/Users/kylepkacius/Dropbox/Programming/udacitycourse/templates/signup-form.html",
+		"/Users/kylepkacius/Dropbox/Programming/udacitycourse/templates/welcome.html",
+		"/Users/kylepkacius/Dropbox/Programming/udacitycourse/app.yaml",
+		"/Users/kylepkacius/Dropbox/Programming/udacitycourse/rot13.html",
+		"/Users/kylepkacius/Dropbox/Programming/udacitycourse/main.py",
+		"/Users/kylepkacius/helloworld/blog.py",
+		"/Users/kylepkacius/helloworld/chapter4.py",
+		"/Users/kylepkacius/Desktop/hw3/templates/permalink.html",
+		"/Users/kylepkacius/helloworld/app.yaml",
+		"/Users/kylepkacius/helloworld/main.py",
+		"/Users/kylepkacius/Desktop/form.html",
+		"/Users/kylepkacius/Desktop/HelloWorld.java",
+		"/Users/kylepkacius/helloworld/dataValidation.py",
+		"/Users/kylepkacius/helloworld/signup.py",
+		"/Users/kylepkacius/helloworld/helloworld.py"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"name",
+			"<td>",
+			"/tr",
+			"tr",
+			"/td",
+			"<td ",
+			"<tr>",
+			"redirect",
+			"as_dict",
+			"register",
+			"by_name",
+			"filter",
+			"db",
+			"login",
+			"add_post",
+			"blog",
+			"viewhandler",
+			"path",
+			"db",
+			"path",
+			"url",
+			"path",
+			"age_get",
+			"from_path",
+			"users",
+			"rendered login",
+			"db",
+			"username",
+			"bloghandler",
+			"format",
+			"user",
+			"check_secure_val",
+			"hmac",
+			"requst",
+			"u.pw_",
+			"read_secure",
+			"check_secure_val",
+			"make_secure",
+			"secure",
+			"valid_pw",
+			"make_pw",
+			"@classmethod",
+			"model",
+			"login",
+			"blogfront",
+			"register",
+			"hmac",
+			"users",
+			"from_path",
+			"parent",
+			"get_",
+			"by_id",
+			"user_id",
+			"uid",
+			"by_id",
+			"db.model",
+			"by_name",
+			"write",
+			"main",
+			"posts",
+			"dbposts",
+			"Newpost",
+			"add_post",
+			"debug",
+			"add_post",
+			"save_time",
+			"add_post",
+			"mem",
+			"list",
+			"select",
+			"top",
+			"clear",
+			"self.render_front",
+			"Front",
+			"Signup",
+			"fora",
+			"logout",
+			"log",
+			"logout",
+			"valid",
+			"hello",
+			"hellow",
+			"base",
+			"html",
+			"base",
+			"td",
+			"login",
+			"users",
+			"db.",
+			"make_pw_hash",
+			"make_pwhasg",
+			"string",
+			"random",
+			"check_secure",
+			"HASH",
+			"add_header",
+			"post_id",
+			"str",
+			"arts",
+			"model",
+			"000",
+			"el",
+			"e1",
+			"redirect",
+			"params",
+			"cgi",
+			"#\n",
+			"os",
+			"subject",
+			"art",
+			"Art",
+			"art",
+			"post",
+			"month"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/kylepkacius/Dropbox/Programming/kacius-253-final/templates/edit.html",
+					"settings":
+					{
+						"buffer_size": 449,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								431,
+								431
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/kylepkacius/Dropbox/Programming/kacius-253-final/templates/base.html",
+					"settings":
+					{
+						"buffer_size": 1985,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 409.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/kylepkacius/Dropbox/Programming/kacius-253-final/wiki.py",
+					"settings":
+					{
+						"buffer_size": 11345,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7420,
+								7420
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2600.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 143.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 98.0,
+	"status_bar_visible": true
+}

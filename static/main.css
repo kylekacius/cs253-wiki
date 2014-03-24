@@ -1,0 +1,8 @@
+.noBorder { 
+    border-style: none; 
+    border-color: Transparent; 
+    overflow: auto;        
+    font-size: 18px;
+    font-family: monospace;
+  }
+

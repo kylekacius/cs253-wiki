@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<title>Sign Up</title>
+		    <link href="/static/css/bootstrap.css" rel="stylesheet">
+
+		<style type="text/css">
+		.container {
+			margin-top: 100px;
+		}
+		</style>
+	</head>
+
+	<body>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-4 col-md-offset-4">
+		<form method="post" role="form">
+			
+				<div class="form-group">
+					<label for="userSignup">
+						Username
+					</label>
+						<input id="userSignup" type="text" class="form-control" name="username" value="{{username}}">
+					</label>
+					<label for="error">
+						{{error_username}}
+					</label>
+				</div>
+
+				<div class="form-group">
+					<label for="userPassword">
+						Password
+					</label>
+						<input id="userPassword" type="password" class="form-control" name="password" value="">
+					</label>
+					<label for="error">
+						{{error_password}}
+					</label>
+				</div>
+
+				<div class="form-group">
+					<label for="verifyPassword">
+						Verify Password
+					</label>
+						<input id="verifyPassword" type="password"  class="form-control" name="verify" value="">
+					</label>
+					<label for="error">
+						{{error_verify}}
+					</label>
+				</div>
+
+				<div class="form-group">
+					<label for="emailSignup">
+					Email (optional)
+					</label>
+						<input id="emailSignup" type="text"  class="form-control" name="email" value="{{email}}">
+					</label>
+					<label for="error">
+						{{error_email}}
+					</label>
+				</div>
+			
+			 <div>
+      <button class="btn btn-default" type="submit">Sign Up</button>
+    </div>
+		</form>
+	</div>
+</div>
+</div>
+	</body>
+</html>

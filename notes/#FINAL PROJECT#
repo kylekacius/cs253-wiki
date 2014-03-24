@@ -1,0 +1,14 @@
+#FINAL PROJECT#
+
+Todo
+-sign in, create, edit page
+-enter any url, if page doesn't exist, redirect to edit new, if user signed in
+
+-edit form called 'content'
+-login
+-logout
+-signup
+
+BONUS
+-history
+
